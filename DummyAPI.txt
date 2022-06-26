@@ -1,0 +1,82 @@
+[
+ {
+  "konser": "Jakarta Fair Kemayoran 2022",
+  "harga": 1000000,
+  "tanggal": "2022-06-28",
+  "gambar": "https://i.ibb.co/ysGXpBY/jakarta-fair-kemayoran-tahun-2022.jpg",
+  "kota": "Jakarta",
+  "id": "1"
+ },
+ {
+  "konser": "Justin Bieber World Tour",
+  "harga": 900000,
+  "tanggal": "2022-11-03",
+  "gambar": "https://i.ibb.co/rdhPGXT/justin-bieber-konser.jpg",
+  "kota": "Jakarta",
+  "id": "2"
+ },
+ {
+  "konser": "Ritual Bermusik",
+  "harga": 75000,
+  "tanggal": "2022-07-17",
+  "gambar": "https://i.ibb.co/gDkT6mJ/ritual-bermusik.webp",
+  "kota": "Depok",
+  "id": "3"
+ },
+ {
+  "konser": "I-DLE WORLD TOUR JUST ME",
+  "harga": 12000000,
+  "tanggal": "2022-28-08",
+  "gambar": "https://i.ibb.co/7kbSRNS/gidle-world-tour.jpg",
+  "kota": "Jakarta",
+  "id": "4"
+ },
+ {
+  "konser": "Dewa-19",
+  "harga": 250000,
+  "tanggal": "2022-08-06",
+  "gambar": "https://i.ibb.co/znMfZ6X/dewa.webp",
+  "kota": "Jogjakarta",
+  "id": "5"
+ },
+ {
+  "konser": "W.Kusuma-Ardhito Pramono",
+  "harga": 270000,
+  "tanggal": "2022-07-14",
+  "gambar": "https://i.ibb.co/pvwbMQK/Wijaya-Kusuma-Tour-Ardhito-Pramono-Jakarta.webp",
+  "kota": "Jakarta",
+  "id": "5"
+ },
+ {
+  "konser": "Rosa Shining Year Concert",
+  "harga": 400000,
+  "tanggal": "2096-07-29",
+  "gambar": "https://i.ibb.co/Sc2Tk7x/ROSSA-25-SHINING-YEARS-CONCERT-BANDUNG.webp",
+  "kota": "Bandung",
+  "id": "6"
+ },
+ {
+  "konser": "Connectives Festival 2022",
+  "harga": 70000,
+  "tanggal": "2022-07-42",
+  "gambar": "https://i.ibb.co/q0tXYRg/Connectives-Festival-2022.webp",
+  "kota": "Semarang",
+  "id": "7"
+ },
+ {
+  "konser": "KVFest Live in Jakarta 2022",
+  "harga": 1450000,
+  "tanggal": "2051-08-08",
+  "gambar": "https://i.ibb.co/y87gx04/kv-fest.jpg",
+  "kota": "Jakarta",
+  "id": "8"
+ },
+ {
+  "konser": "PLAY MUSIC FESTIVAL 2022",
+  "harga": 300000,
+  "tanggal": "2022-07-29",
+  "gambar": "https://i.ibb.co/m4w8jVQ/a0a85f20-8f82-4fe0-a8fb-741d3d5a101e-1655195451803-acd5c6499c9bbd00242f241eb2e9bcf3.webp",
+  "kota": "KARANGANYAR SOLO",
+  "id": "9"
+ }
+]
