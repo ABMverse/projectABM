@@ -49,18 +49,18 @@ function Login() {
   const dataParse = JSON.parse(dataLocal);
 
   console.log(dataParse);
-
+alert("Selamat Datang");
   window.location.replace("./kategoritiket.html");
   // kondisi persamaan input user dengan data di localStorage
 
-  if (useridInput === dataParse.userIdInput && passwordInput === dataParse.password) {
-    console.log("ID dan password sama");
-    alert("Selamat Datang");
-    window.location.replace("./kategoritiket.html");
-  } else {
-    console.log("ID atau password ada yang salah");
-    alert("ID atau password ada yang salah");
-    document.querySelector("#userid").value = "";
-    document.querySelector("#password").value = "";
-  }
-}
+//   if (useridInput === dataParse.userIdInput && passwordInput === dataParse.password) {
+//     console.log("ID dan password sama");
+//     alert("Selamat Datang");
+//     window.location.replace("./kategoritiket.html");
+//   } else {
+//     console.log("ID atau password ada yang salah");
+//     alert("ID atau password ada yang salah");
+//     document.querySelector("#userid").value = "";
+//     document.querySelector("#password").value = "";
+//   }
+// }
